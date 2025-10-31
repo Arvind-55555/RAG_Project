@@ -1,0 +1,13 @@
+sentence-transformers
+faiss-cpu
+transformers
+torch
+scikit-learn
+pandas
+numpy
+fastapi
+uvicorn
+python-dotenv
+pytest
+nbconvert
+gitpython
