@@ -1,1 +1,1 @@
-# Retrieval-Augmented Generation (RAG) Project\nThis repo scaffolds a full RAG pipeline with CI and Docker.\n
+# Retrieval-Augmented Generation (RAG) Project
